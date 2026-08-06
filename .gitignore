@@ -1,0 +1,17 @@
+# live-build output
+iso/build-config/chroot/
+iso/build-config/cache/
+iso/build-config/binary/
+iso/build-config/.build/
+iso/build-config/*.iso/
+
+# build artifacts
+*.log
+*.deb
+*.buildinfo
+*.changes
+*.iso
+
+# temp files
+*.swp
+*.tmp
