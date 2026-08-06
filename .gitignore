@@ -3,7 +3,17 @@ iso/build-config/chroot/
 iso/build-config/cache/
 iso/build-config/binary/
 iso/build-config/.build/
-iso/build-config/*.iso/
+iso/build-config/*.iso
+iso/build-config/*.contents
+iso/build-config/*.files
+iso/build-config/*.packages
+iso/build-config/*.manifest
+iso/build-config/*.manifest-hash
+iso/build-config/*.md5sum
+iso/build-config/*.list
+iso/build-config/binary.modified_timestamps
+iso/build-config/*.install
+iso/build-config/*.live
 
 # build artifacts
 *.log
