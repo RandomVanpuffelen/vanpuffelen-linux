@@ -8,3 +8,8 @@
 ## 2026-08-06
 - Made first bootable XFCE ISO
 - Added docs/building.md
+
+## 2026-08-07
+- I honestly forgot what I committed
+- Backgrounds and shit I think
+- Fuck
